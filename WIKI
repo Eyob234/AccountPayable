@@ -1,0 +1,6 @@
+this project is biuld to track vendors informations and thier activity.it is biuld in visual studio ASP.NET core.
+the project is has diffrent layaout pages with controllers with thier own functions to the system.
+it is easy to use and can be run in any web browser.
+users can install is project on thier local machine and use it easily.
+the proeject will let the user to add a vendor with full informations and desplay the list of vendros in a vendor list page.
+authorized user can add, delete and eddit vendors as needed.
